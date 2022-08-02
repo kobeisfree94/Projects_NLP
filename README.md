@@ -1,6 +1,6 @@
 # Projects Summary
 
-## **[Deep Learning](https://github.com/kobeisfree94/Projects/tree/master/Deep_Learning)** 🧠
+## **[Deep Learning]** 🧠
 ___
 #### **[Natural Language Processing]**
   - [Machine Translation]
