@@ -24,12 +24,14 @@ ___
 ___
 **4. Model**
 - LSTM
+
 ![Screen Shot 2022-08-12 at 16 00 12](https://user-images.githubusercontent.com/60637777/184301525-e91619c7-be5f-4adc-9cc7-49fec42da43a.png)
 
 **5. Conclusions**
 
-![Screen Shot 2022-08-12 at 16 01 48](https://user-images.githubusercontent.com/60637777/184301784-d41be81c-abc1-4cee-ab8e-8ebdcf8d769f.png)
-![Screen Shot 2022-08-12 at 16 02 00](https://user-images.githubusercontent.com/60637777/184301814-39416ce5-8038-44b7-ba4f-340f337f554a.png)
+![Screen Shot 2022-08-12 at 16 04 13](https://user-images.githubusercontent.com/60637777/184302152-d84297a1-4bee-426c-850e-69a2dc9b66e3.png)
+
+![Screen Shot 2022-08-12 at 16 04 52](https://user-images.githubusercontent.com/60637777/184302273-ae36a78f-0200-4694-bc8e-6a18f3ce8ff2.png)
 
 *- The model's performance/accuracy was 0.9127 and the loss was 0.2180*
 
